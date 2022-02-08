@@ -1,0 +1,170 @@
+= SAP Prüfung
+
+== Übung 1 Bestellung anlegen
+
+=== MM01 - Material Anlegen
+
+image::images/image-2022-02-08-18-50-49-561.png[]
+
+*Nach dem Enter drücken folgende Sichten abarbeiten:*
+
+=== Grunddaten bearbeiten
+
+====
+.Angabe
+image::images/image-2022-02-08-19-01-02-137.png[]
+
+.Grunddaten Auwählen
+image::images/image-2022-02-08-18-52-51-384.png[]
+====
+
+====
+.Angabe
+image::images/image-2022-02-08-18-59-52-125.png[]
+
+.Daten eingeben und _Enter_
+image::images/image-2022-02-08-18-58-38-144.png[]
+
+====
+=== Einkauf (Hamburg, Berlin)
+
+====
+image::images/image-2022-02-08-19-03-21-808.png[]
+
+====
+
+
+*Für jeden Lagerort einzeln machen.*
+
+====
+
+*1000 == Hamburg*
+
+image::images/image-2022-02-08-19-05-31-722.png[]
+
+image::images/image-2022-02-08-19-04-28-122.png[]
+
+image::images/image-2022-02-08-19-16-13-322.png[]
+
+image::images/image-2022-02-08-19-15-50-969.png[]
+
+image::images/image-2022-02-08-19-17-29-834.png[]
+====
+
+====
+*1100 == Berlin*
+
+image::images/image-2022-02-08-19-19-00-797.png[]
+
+image::images/image-2022-02-08-19-18-35-330.png[]
+
+image::images/image-2022-02-08-19-21-56-835.png[]
+
+image::images/image-2022-02-08-19-21-30-169.png[]
+====
+
+=== Disposition 1 (Hamburg, Berlin)
+
+====
+image::images/image-2022-02-08-19-23-35-490.png[]
+====
+
+====
+*Werk*: Hamburg +
+*Lagerort* 0001
+
+image::images/image-2022-02-08-19-32-25-211.png[]
+
+image::images/image-2022-02-08-19-31-14-090.png[]
+
+image::images/image-2022-02-08-19-36-36-937.png[]
+
+image::images/image-2022-02-08-19-34-45-302.png[]
+====
+
+====
+*Werk*: Hamburg +
+*Lagerort*: 0002
+
+image::images/image-2022-02-08-19-36-02-597.png[]
+
+image::images/image-2022-02-08-19-36-48-793.png[]
+
+====
+
+====
+*Werk*: Berlin +
+*Lagerort* 0001
+
+image::images/image-2022-02-08-19-49-04-701.png[]
+
+image::images/image-2022-02-08-19-47-44-839.png[]
+
+image::images/image-2022-02-08-19-52-17-290.png[]
+
+image::images/image-2022-02-08-19-53-27-868.png[]
+====
+
+=== Allg. Werksdaten / Lagerung (Berlin, Hamburg)
+
+====
+*Werk*: Hamburg +
+
+image::images/image-2022-02-08-19-55-28-812.png[]
+
+image::images/image-2022-02-08-19-56-39-474.png[]
+
+*Lagerort:* 0001
+
+image::images/image-2022-02-08-20-02-09-019.png[]
+
+image::images/image-2022-02-08-19-59-37-665.png[]
+
+*Lagerort:* 0002
+
+image::images/image-2022-02-08-20-02-59-186.png[]
+
+image::images/image-2022-02-08-20-01-27-312.png[]
+
+*Das gleiche dann auch für Berlin*
+====
+
+=== Buchhaltung 1 (Berlin, Hamburg)
+
+====
+
+*Hamburg:*
+
+image::images/image-2022-02-08-20-07-11-886.png[]
+
+image::images/image-2022-02-08-20-07-50-884.png[]
+
+image::images/image-2022-02-08-20-10-45-589.png[]
+
+image::images/image-2022-02-08-20-10-12-041.png[]
+
+Das gleiche für *Berlin*.
+====
+
+== Merkmal anlegen Ct04
+
+====
+image::images/image-2022-02-08-20-23-44-690.png[]
+
+image::images/image-2022-02-08-20-24-46-132.png[]
+
+====
+
+== Klasse anlegen Cl02
+
+====
+image::images/image-2022-02-08-20-30-06-700.png[]
+
+*Weise Blatt = Anlegen*
+
+image::images/image-2022-02-08-20-30-59-731.png[]
+
+image::images/image-2022-02-08-20-32-29-357.png[]
+
+*Mit allen 3 machen*
+====
