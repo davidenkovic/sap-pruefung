@@ -1,8 +1,7 @@
-= SAP Prüfung
+= SAP Prüfung | Übung 1 Bestellung anlegen
 
-== Übung 1 Bestellung anlegen
 
-=== MM01 - Material Anlegen
+== MM01 - Material Anlegen
 
 image::images/image-2022-02-08-18-50-49-561.png[]
 
